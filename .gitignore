@@ -1,0 +1,8 @@
+data/
+feeds/
+*.sqlite3
+*.db
+__pycache__/
+*.py[cod]
+.DS_Store
+

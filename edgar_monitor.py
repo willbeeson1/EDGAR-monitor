@@ -15,7 +15,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 TARGET_FORMS = {"8-K", "SC 13D", "SC 13G", "4", "S-1", "DEFA14A"}
-USER_AGENT = "Telos Monitor frontrunner@proton.me"
+USER_AGENT = "Will Beeson EDGAR Monitor willbeeson@outlook.com"
 COMPANY_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SUBMISSIONS_URL = "https://data.sec.gov/submissions/CIK{cik}.json"
 
